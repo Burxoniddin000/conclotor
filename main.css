@@ -111,13 +111,13 @@ body {
 
 .calculator .buttons span#plus {
     grid-row: span 2;
-    background: #31a935;
+    background: #00eeff;
     color: #fff;
     border: 2px solid #edf1f4;
 }
 
 .calculator .buttons span#epual {
-    grid-column: span 1;
+    grid-column: span 3 ;
     background: #2196f3;
     color: #fff;
     border: 2px solid #edf1f4;
